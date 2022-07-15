@@ -17,7 +17,9 @@ The user should clone the repository from GitHub. This application requires Node
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
-View a Walkthrough Video via [Video Demo]()
+View Walkthrough Videos via [Video Demo 1](https://drive.google.com/file/d/1MGVRcfc6HslFeKEa47g-FU-LQ5dcpOWJ/view)
+[video demo 2](https://drive.google.com/file/d/1NYdp0D5sH4dpbMVRDoUXKXaf3D7uVLJl/view)
+
 
 ## License 
 This project is license under MIT
